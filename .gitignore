@@ -19,8 +19,8 @@
 *.tar.gz
 *.rar
 
-build
-*.gradle
+build/
+.gradle/
 *.idea
 .DS_Store
 
